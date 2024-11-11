@@ -1,0 +1,16 @@
+body{
+	background-image: url('https://wallpapers.com/images/featured/disney-castle-background-ajdgsefo2rldkxce.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.container1{
+	color: whitesmoke;
+}
+table {
+  font-family: 'Times New Roman', serif;
+}
+h1{
+	background-color: #4477ad;
+	text-align: center;
+}
